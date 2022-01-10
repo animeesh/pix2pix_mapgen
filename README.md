@@ -7,7 +7,7 @@ train.py:     execuate to train your model
 validate.py:  validate to check your model with val folder
 check.py:     test your model on your data  
 
-![output:]() 
+![output:](https://github.com/animeesh/pix2pix_mapgen/blob/main/plot_010960.png) 
 
 extra what is needed 
 
